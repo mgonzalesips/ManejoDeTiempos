@@ -1,0 +1,16 @@
+C:\Users\PC\source\repos\ManejoDeTiempos\ManejoDeTiempos\bin\Debug\net5.0\ManejoDeTiempos.exe
+C:\Users\PC\source\repos\ManejoDeTiempos\ManejoDeTiempos\bin\Debug\net5.0\ManejoDeTiempos.deps.json
+C:\Users\PC\source\repos\ManejoDeTiempos\ManejoDeTiempos\bin\Debug\net5.0\ManejoDeTiempos.runtimeconfig.json
+C:\Users\PC\source\repos\ManejoDeTiempos\ManejoDeTiempos\bin\Debug\net5.0\ManejoDeTiempos.runtimeconfig.dev.json
+C:\Users\PC\source\repos\ManejoDeTiempos\ManejoDeTiempos\bin\Debug\net5.0\ManejoDeTiempos.dll
+C:\Users\PC\source\repos\ManejoDeTiempos\ManejoDeTiempos\bin\Debug\net5.0\ref\ManejoDeTiempos.dll
+C:\Users\PC\source\repos\ManejoDeTiempos\ManejoDeTiempos\bin\Debug\net5.0\ManejoDeTiempos.pdb
+C:\Users\PC\source\repos\ManejoDeTiempos\ManejoDeTiempos\obj\Debug\net5.0\ManejoDeTiempos.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\ManejoDeTiempos\ManejoDeTiempos\obj\Debug\net5.0\ManejoDeTiempos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\ManejoDeTiempos\ManejoDeTiempos\obj\Debug\net5.0\ManejoDeTiempos.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\ManejoDeTiempos\ManejoDeTiempos\obj\Debug\net5.0\ManejoDeTiempos.AssemblyInfo.cs
+C:\Users\PC\source\repos\ManejoDeTiempos\ManejoDeTiempos\obj\Debug\net5.0\ManejoDeTiempos.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\ManejoDeTiempos\ManejoDeTiempos\obj\Debug\net5.0\ManejoDeTiempos.dll
+C:\Users\PC\source\repos\ManejoDeTiempos\ManejoDeTiempos\obj\Debug\net5.0\ref\ManejoDeTiempos.dll
+C:\Users\PC\source\repos\ManejoDeTiempos\ManejoDeTiempos\obj\Debug\net5.0\ManejoDeTiempos.pdb
+C:\Users\PC\source\repos\ManejoDeTiempos\ManejoDeTiempos\obj\Debug\net5.0\ManejoDeTiempos.genruntimeconfig.cache
